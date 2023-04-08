@@ -1,14 +1,29 @@
 body {
-    background-color:rgb(255, 244, 228);
+    background-color:rgb(255, 255, 255);
     font-family:Arial, Helvetica, sans-serif
-}
-
-h1 {
-    text-align:center;
-    font-size:50px;
 }
 
 img{
     width: 400px;
     height: auto;
+    border: 8px solid #91F5AD;
+    border-radius: 20px;
+}
+
+p{
+    padding: 20px;
+}
+
+h1{
+    color: #3B3B58;
+    background-color: #91F5AD;
+    padding: 20px;
+    text-align: center;
+    font-size: 40px
+}
+
+h3{
+    color: #ED254E;
+    padding: 20px;
+    background-color: #FFD275;
 }
